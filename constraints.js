@@ -1,4 +1,4 @@
-Selector.initialize([
+ConstraintSelector.initialize([
     "No primitives",
     "No mouse",
     "No syntax highlight & IDE",

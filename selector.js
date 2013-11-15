@@ -1,6 +1,6 @@
 (function() {
 
-window.Selector = {
+window.ConstraintSelector = {
     REPEAT_OPTIONS: 5,
     ANIMATION_LENGTH: 2050,
     SELECTION_TOP: 230,
