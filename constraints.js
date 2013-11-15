@@ -2,7 +2,7 @@ ConstraintSelector.initialize([
     "No primitives",
     "No mouse",
     "No syntax highlight & IDE",
-    "No cursing",
+    "No profanity",
     "No conditionals",
     "No loops",
     "No mutable state",
