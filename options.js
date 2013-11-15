@@ -1,0 +1,22 @@
+Selector.initialize([
+    "No primitives",
+    "No mouse",
+    "No syntax highlight & IDE",
+    "No cursing",
+    "No if statements",
+    "No loop statements",
+    "No mutable state",
+    "No variables",
+    "No return statements",
+    "No shorter names than 80 characters",
+    "No longer names than 8 characters",
+    "TDD: ping-pong",
+    "TDD: silent ping-pong",
+    "TDD: ping-pong: find the loophole",
+    "TDD: as if you meant it",
+    "TDD: baby steps",
+    "TDD: Transformation Priority list",
+    "Zombie apocalypse",
+    "3 line methods, 2 parameters",
+    "Mid-session feature requests"
+]);
