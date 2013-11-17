@@ -59,7 +59,9 @@ window.ConstraintSelector = {
     },
 
     handleKeyUp: function () {
-        this.startRolling();
+        if (event.keyCode == 13 || event.keyCode == 32) {
+            this.startRolling();
+        }
     },
 
     handleMouseUp: function () {
@@ -71,7 +73,7 @@ window.ConstraintSelector = {
             return;
         }
 
-        this.remainingRolls = this.random(5, 9);
+        this.remainingRolls = this.random(2, 4);
         this.roll();
         this.rollerInterval = window.setInterval(
             bind(this.roll, this),
